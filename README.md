@@ -1,6 +1,7 @@
-# web_devlopment_Internship
 # Web Development Project:
-Currency Converter, Registration Form, and Simple Calculator
+- Currency Converter
+- Registration Form
+- Simple Calculator
 
 ## Project Overview
 
