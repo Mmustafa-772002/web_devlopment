@@ -36,4 +36,4 @@ This web development project aims to create a website with three main features: 
 ## Usage
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/your-username/your-project.git
+   git clone [https://github.com/your-username/your-project.git](https://github.com/Mmustafa-772002/web_devlopment_Internship)https://github.com/Mmustafa-772002/web_devlopment_Internship
